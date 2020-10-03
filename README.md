@@ -5,6 +5,7 @@ Hacktoberfest Talk at DSC NSUT and DSC Banasthali Vidyapith.
 
 #### First-Timers-Only: https://www.firsttimersonly.com/
 #### Code-Triage: https://www.codetriage.com/
+#### IssueHub: http://issuehub.io/ (Thank you Chris for the link :))
 
 ## Other Important Links for various programs:
 
