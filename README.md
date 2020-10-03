@@ -1,5 +1,5 @@
 # Let's talk about Open-Source!
-Hacktoberfest Talk at DSC NSUT and DSC Banasthali Vidyapeeth
+Hacktoberfest Talk at DSC NSUT and DSC Banasthali Vidyapith.
 
 ## Beginner-Friendly Projects or links that will help you find one: 
 
